@@ -7,7 +7,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringbootDevopsApplication {
 
 	public static void main(String[] args) {
+		
 		SpringApplication.run(SpringbootDevopsApplication.class, args);
+		System.out.println("main called ====");
+		
 	}
 
 }
