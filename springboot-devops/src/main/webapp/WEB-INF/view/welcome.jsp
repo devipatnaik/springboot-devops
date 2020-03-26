@@ -6,7 +6,9 @@
 <meta charset="ISO-8859-1">
 <title>DevOps</title>
 </head>
-<body>
-<h1>Do Registration, For DevOps Demonstration, Thank You. @Copy Right 2020</h1>
+<body bgcolor="cyan">
+<h1>Do Registration, For DevOps Demonstration, Thank You.</h1>
+<br/>
+<h2>@Copy Right 2020</h2>
 </body>
 </html>
