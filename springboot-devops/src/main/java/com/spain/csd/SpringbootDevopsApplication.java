@@ -17,9 +17,7 @@ public class SpringbootDevopsApplication extends SpringBootServletInitializer {
 	
 	@Override
 	protected SpringApplicationBuilder configure(SpringApplicationBuilder builder) {
-		
 		return builder.sources(SpringbootDevopsApplication.class);
-		
 	}
 
 }
