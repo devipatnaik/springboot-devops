@@ -82,7 +82,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>springboot-devops1</finalName>
+		<finalName>springboot-devops-ans</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
